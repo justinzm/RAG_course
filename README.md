@@ -12,5 +12,5 @@
 
 | 序号 | 课程名称 | 课程简介 | 链接 |
 | -- | -- | -- | -- |
-| 1 | 基础简单的RAG | 适合新手的基本RAG技术 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/01_base_rag.ipynb) |
+| 01 | 基础简单的RAG | 适合新手的基本RAG技术 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/01_base_rag.ipynb) |
 | -- | -- | -- |
