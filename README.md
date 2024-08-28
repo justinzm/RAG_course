@@ -14,6 +14,7 @@
 | -- | -- | -- | -- |
 | 01 | 基础简单的RAG | 适合新手的基本RAG技术 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/01_base_rag.ipynb) |
 | 02 | 丰富上下文 | 通过检索到单个块扩展到相邻块提高检索效率 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/02_context_enrichment_window.ipynb) |
+| 03 | 融合检索 | 结合了基于向量的相似性检索和基于关键词的BM25检索方法优化结果 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/03_fusion_retrieval.ipynb) |
 | -- | -- | -- |
 
 ## License 许可证
