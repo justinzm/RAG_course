@@ -13,4 +13,5 @@
 | 序号 | 课程名称 | 课程简介 | 链接 |
 | -- | -- | -- | -- |
 | 01 | 基础简单的RAG | 适合新手的基本RAG技术 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/01_base_rag.ipynb) |
+| 02 | 丰富上下文 | 通过检索到单个块扩展到相邻块提高检索效率 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/02_context_enrichment_window.ipynb) |
 | -- | -- | -- |
