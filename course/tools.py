@@ -6,6 +6,15 @@
 # @desc : 工具类
 
 
+def replace_t_with_space(list_of_documents):
+    """
+    将每个文档页面内容中的所有制表符('\t')替换为空格。
+    """
+    for doc in list_of_documents:
+        doc.page_content = doc.page_content.replace('\t', ' ')
+    return list_of_documents
+
+
 def show_context(context):
     """
     显示所提供的上下文列表的内容。
