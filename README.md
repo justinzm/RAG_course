@@ -16,6 +16,7 @@
 | 02 | 丰富上下文 | 通过检索到单个块扩展到相邻块提高检索效率 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/02_context_enrichment_window.ipynb) |
 | 03 | 融合检索 | 结合了基于向量的相似性检索和关键词的BM25检索方法优化结果 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/03_fusion_retrieval.ipynb) |
 | 04 | 智能重新排序 | 使用大模型对每个检索到的块的相关性进行评分 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/04_reranking_01.ipynb) |
+| 05 | 智能重新排序 | 使用Reranker Model对每个检索到的块的相关性进行评分 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/05_reranking_02.ipynb) |
 | -- | -- | -- |
 
 ## License 许可证
