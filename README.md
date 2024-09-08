@@ -17,6 +17,8 @@
 | 03 | 融合检索 | 结合了基于向量的相似性检索和关键词的BM25检索方法优化结果 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/03_fusion_retrieval.ipynb) |
 | 04 | 智能重新排序 | 使用大模型对每个检索到的块的相关性进行评分 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/04_reranking_01.ipynb) |
 | 05 | 智能重新排序 | 使用Reranker Model对每个检索到的块的相关性进行评分 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/05_reranking_02.ipynb) |
+| 06 | CSV文件RAG | 基于CSV文件的RAG系统 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/06_csv_rag.ipynb) |
+| 07 | 更加可靠的检索 | 通过检查文档相关性和防止幻觉确保准确性和相关性 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/07_reliable_rag.ipynb) |
 | -- | -- | -- |
 
 ## License 许可证
