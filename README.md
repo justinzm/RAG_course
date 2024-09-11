@@ -19,6 +19,9 @@
 | 05 | 智能重新排序 | 使用Reranker Model对检索块的相关性进行评分重新排序 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/05_reranking_02.ipynb) |
 | 06 | CSV文件RAG | 基于CSV文件的RAG系统 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/06_csv_rag.ipynb) |
 | 07 | 更加可靠的检索 | 通过检查文档相关性和防止幻觉确保准确性和相关性 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/07_reliable_rag.ipynb) |
+| 08 | 查询语句转换技术  | 查询语句重写 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/08_query_rewriting.ipynb) |
+| 09 | 查询语句转换技术 | Step-back提示 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/09_step_back_prompting.ipynb) |
+| 10 | 查询语句转换技术 | 子查询分解 | [链接](https://github.com/justinzm/RAG_course/blob/main/course/10_sub_query.ipynb) |
 | -- | -- | -- |
 
 ## License 许可证
